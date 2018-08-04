@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "chloride": "git+https://github.com/streamplace/chloride.git",
+    "json-stable-stringify": "^1.0.1",
     "mkdirp": "~0.5.0",
     "private-box": "^0.2.1"
   },
