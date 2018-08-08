@@ -1,5 +1,5 @@
 {
-  "name": "ssb-keys",
+  "name": "@streamplace/ssb-keys",
   "description": "keyfile operations for ssb",
   "version": "7.0.16",
   "homepage": "https://github.com/ssbc/ssb-keys",
