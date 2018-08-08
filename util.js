@@ -1,5 +1,5 @@
 'use strict'
-var cl     = require('chloride')
+var cl     = require('@streamplace/chloride')
 
 exports.hash = function (data, enc) {
   data = (

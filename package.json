@@ -8,8 +8,8 @@
     "url": "git://github.com/ssbc/ssb-keys.git"
   },
   "dependencies": {
-    "chloride": "git+https://github.com/streamplace/chloride.git",
     "json-stable-stringify": "^1.0.1",
+    "@streamplace/chloride": "^2.2.10",
     "mkdirp": "~0.5.0",
     "private-box": "^0.2.1"
   },
