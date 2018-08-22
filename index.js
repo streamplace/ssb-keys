@@ -1,7 +1,7 @@
 'use strict'
 var sodium     = require('@streamplace/chloride')
 
-var pb         = require('private-box')
+var pb         = require('@streamplace/private-box')
 
 var u          = require('./util')
 
