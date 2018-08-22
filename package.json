@@ -20,5 +20,8 @@
     "test": "tape test/*"
   },
   "author": "Paul Frazee <pfrazee@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "node-entry.js",
+  "browser": "browser-entry.js",
+  "native": "browser-entry.js"
 }

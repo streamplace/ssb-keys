@@ -72,10 +72,6 @@ exports.generate = function (curve, seed) {
   return u.keysToJSON(curves[curve].generate(seed), curve)
 }
 
-//import functions for loading/saving keys from storage
-var storage = require('./storage')(exports.generate)
-for(var key in storage) exports[key] = storage[key]
-
 
 exports.loadOrCreate = function (filename, cb) {
   exports.load(filename, function (err, keys) {
