@@ -1,7 +1,7 @@
 {
   "name": "@streamplace/ssb-keys",
   "description": "keyfile operations for ssb",
-  "version": "7.0.20",
+  "version": "7.0.21",
   "homepage": "https://github.com/ssbc/ssb-keys",
   "repository": {
     "type": "git",
